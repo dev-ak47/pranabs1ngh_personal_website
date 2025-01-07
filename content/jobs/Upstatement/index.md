@@ -1,13 +1,14 @@
 ---
 date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Rust Freelance Engineer'
+company: 'ALGO.RS'
+range: 'Jul 2024 - Present'
+url: '#https://www.upstatement.com/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Designed multi threading architecture for trading a set of systematic strategies on NIFTY for a given set of accounts
+- Used rust’s traits architecture to implement different behavior patterns for different types of trading instruments (futures & synthetic futures in this case)
+- Ported NorenApi-js library from javascript to rust
+- Built system to trade multiple strategies parallely and place orders for multiple accounts simultaneously
+- Implemented a switch allowing the trading algorithm to place orders either automatically or after analyst confirmation via Telegram bot
+- Created channels based communication architecture for making inter threads communication
