@@ -3,7 +3,7 @@ date: '2018-05-14'
 title: 'Rust Freelance Engineer'
 company: 'ALGO.RS'
 range: 'Jul 2024 - Present'
-url: '#https://www.upstatement.com/'
+url: 'https://www.upstatement.com/'
 ---
 
 - Designed multi threading architecture for trading a set of systematic strategies on NIFTY for a given set of accounts
