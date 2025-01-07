@@ -4,7 +4,7 @@ title: 'SENIOR SOFTWARE ENGINEER'
 company: 'DoctorC'
 location: 'Hyderabad'
 range: 'Feb 2022 - Nov 2023'
-url: 'https://www.speakx.ai/'
+url: 'https://doctorc.in/'
 ---
 
 - Architected and implemented the viral health checks platform ensuring scalability and efficiency as a founding member of the team
